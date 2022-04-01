@@ -1,1 +1,3 @@
-Hello, Git!
+Hello, Gott!
+
+jetzt schreiben wir Deutsch!
